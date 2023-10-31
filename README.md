@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm Calvin</h1>
+<h1 align="center">Hi 👋🏽, I'm Calvin</h1>
       <h3 align="center">
         A Full Stack Front End Developer who is passionate about UI/UX Design &
         elevating user experiences
       </h3>
       <br />
       - 👨‍💻 All of my projects are available at
-      [https://calvinivan.github.io/](https://calvinivan.github.io/)
+      [https://calvinivan.github.io/]
       <br />
       - 📫 How to reach me **calvinivan@live.com**
       <h3 align="left">Connect with me:</h3>
