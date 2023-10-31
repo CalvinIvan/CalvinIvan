@@ -3,24 +3,9 @@
         A Full Stack Front End Developer who is passionate about UI/UX Design &
         elevating user experiences
       </h3>
-      <br />• 👨‍💻 All of my projects are available
-      <a href="https://calvinivan.github.io/">here</a>
-      <br />• 📫 How to <a href="mailto:CalvinIvan@live.com">reach me</a>
       <h3 align="left">Connect with me:</h3>
-      <p align="left">
-        <a
-          href="https://linkedin.com/in/https://www.linkedin.com/in/calvinivan/"
-          target="blank"
-        >
-          <img
-            align="center"
-            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-            alt="https://www.linkedin.com/in/calvinivan/"
-            height="30"
-            width="40"
-          />
-        </a>
-      </p>
+      📫 How to <a href="mailto:CalvinIvan@live.com">reach me</a>
+      <br />
       <h3 align="left">Languages and Tools:</h3>
       <h4>Programming Languages: </h4>
       <p align="left">
