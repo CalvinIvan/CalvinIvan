@@ -1,13 +1,11 @@
 <h1 align="center">Hi 👋🏽, I'm Calvin</h1>
-      <h3 align="center">
+      <h3 align="left">
         A Full Stack Front End Developer who is passionate about UI/UX Design &
         elevating user experiences
       </h3>
-      <br />
-      - 👨‍💻 All of my projects are available at
-      [https://calvinivan.github.io/]
-      <br />
-      - 📫 How to reach me **calvinivan@live.com**
+      <br />• 👨‍💻 All of my projects are available
+      <a href="https://calvinivan.github.io/">here</a>
+      <br />• 📫 How to <a href="mailto:CalvinIvan@live.com">reach me</a>
       <h3 align="left">Connect with me:</h3>
       <p align="left">
         <a
